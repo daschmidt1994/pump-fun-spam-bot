@@ -4,6 +4,8 @@
 
 Welcome to Solium, an app that allows you to launch tokens and manage wallets using a straightforward UI. Scripts/Bots are useful, but when you run into problems it may be difficult to resolve them yourself if you are not a developer. Solium seeks to alleviate this problem by bringing you all the same functionality in the form of a clean UI.
 
+# Website
+(solium.app)[https://solium.app]
 
 
 ## 🗄️Features
